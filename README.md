@@ -32,8 +32,5 @@ A   B   C
 1   1   1
 ```
 
-
-
-## Sources
 [1]: https://www.nature.com/articles/srep43048
 [2]: https://stackoverflow.com/a/127831
