@@ -1,5 +1,5 @@
 # white-leap
-Did the leap quantum?
+## Did the leap quantum?
 
 All the following assumes that I've understood correctly what I've read and 
 learned.
@@ -13,6 +13,8 @@ problem."[2]
 So are we simply waiting for QC with enough qubits? Does it matter if it is
 universal gate QC or quantum annealing QC?
 
+## constraint satisfaction problem 
 
+## Sources
 [1]https://www.nature.com/articles/srep43048
 [2]https://stackoverflow.com/a/127831
